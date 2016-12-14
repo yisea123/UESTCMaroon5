@@ -1,0 +1,13 @@
+rollsroyce configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\list.c
+rollsroyce configuration\list.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+rollsroyce configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+rollsroyce configuration\list.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+rollsroyce configuration\list.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+rollsroyce configuration\list.o: ..\Inc\FreeRTOSConfig.h
+rollsroyce configuration\list.o: ..\Inc\mxconstants.h
+rollsroyce configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+rollsroyce configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+rollsroyce configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+rollsroyce configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+rollsroyce configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+rollsroyce configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h

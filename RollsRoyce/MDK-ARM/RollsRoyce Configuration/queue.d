@@ -1,0 +1,16 @@
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\queue.c
+rollsroyce configuration\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+rollsroyce configuration\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+rollsroyce configuration\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+rollsroyce configuration\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+rollsroyce configuration\queue.o: ..\Inc\FreeRTOSConfig.h
+rollsroyce configuration\queue.o: ..\Inc\mxconstants.h
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+rollsroyce configuration\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\queue.h

@@ -1,0 +1,70 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.16a
+Copyright (C) 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: a a, a, LIC=UB463-AKZN9-MR8XP-M9GSC-NT056-D13Q5
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.16a
+Toolchain Path:  D:\Keil\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 (build 20)
+Assembler:       Armasm.exe V5.06 (build 20)
+Linker/Locator:  ArmLink.exe V5.06 (build 20)
+Library Manager: ArmAr.exe V5.06 (build 20)
+Hex Converter:   FromElf.exe V5.06 (build 20)
+CPU DLL:         SARMCM3.DLL V5.16a
+Dialog DLL:      DCM.DLL V1.13.2.0
+Target DLL:      Segger\JL2CM3.dll V2.99.15.2
+Dialog DLL:      TCM.DLL V1.14.5.0
+ 
+<h2>Project:</h2>
+C:\Users\47670\Desktop\MengSheng\RollsRoyce\MDK-ARM\RollsRoyce.uvprojx
+Project File Date:  10/21/2016
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 (build 20)', folder: 'D:\Keil\ARM\ARMCC\Bin'
+Build target 'RollsRoyce Configuration'
+compiling mission.c...
+..\mission.c(138): warning:  #188-D: enumerated type mixed with another type
+  	Mission.MissionID=-1;
+..\mission.c(279): warning:  #188-D: enumerated type mixed with another type
+  									Mission.MissionStage=StandBy;
+..\mission.c(297): warning:  #188-D: enumerated type mixed with another type
+  									Mission.MissionStage=StandBy;
+..\mission.c(315): warning:  #188-D: enumerated type mixed with another type
+  									Mission.MissionStage=StandBy;
+..\mission.c(376): warning:  #223-D: function "cos" declared implicitly
+  								PID_Calc(&pidSpeed,myabs(cos(Mission.y_ofs)*Mission.x_ofs),0,10);		  //Data Calc
+..\mission.c(433): warning:  #188-D: enumerated type mixed with another type
+  									Mission.MissionStage=StandBy;
+..\mission.c(451): warning:  #188-D: enumerated type mixed with another type
+  									Mission.MissionStage=StandBy;
+..\mission.c(469): warning:  #188-D: enumerated type mixed with another type
+  									Mission.MissionStage=StandBy;
+..\mission.c(531): warning:  #223-D: function "cos" declared implicitly
+  							PID_Calc(&pidSpeed,myabs(cos(Mission.y_ofs)*Mission.x_ofs),0,10);		  //Data Calc
+..\mission.c(571): warning:  #188-D: enumerated type mixed with another type
+  							Mission.MissionStage=StandBy;
+..\mission.c(584): warning:  #128-D: loop is not reachable
+  	for(;;)
+..\mission.c(164): warning:  #550-D: variable "initX" was set but never used
+  	float initYaw=0,initX=0,initY=0;
+..\mission.c(164): warning:  #177-D: variable "initY" was declared but never referenced
+  	float initYaw=0,initX=0,initY=0;
+..\mission.c: 13 warnings, 0 errors
+linking...
+Program Size: Code=19036 RO-data=892 RW-data=140 ZI-data=17940  
+"RollsRoyce Configuration\RollsRoyce Configuration.axf" - 0 Error(s), 13 Warning(s).
+
+<h2>Collection of Component include folders:</h2>
+  C:\Users\47670\Desktop\MengSheng\RollsRoyce\MDK-ARM\RTE
+  D:\Keil\ARM\PACK\Keil\STM32F4xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>

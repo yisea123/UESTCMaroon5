@@ -1,0 +1,14 @@
+rollsroyce configuration\heap_4.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\MemMang\heap_4.c
+rollsroyce configuration\heap_4.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+rollsroyce configuration\heap_4.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+rollsroyce configuration\heap_4.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+rollsroyce configuration\heap_4.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+rollsroyce configuration\heap_4.o: ..\Inc\FreeRTOSConfig.h
+rollsroyce configuration\heap_4.o: ..\Inc\mxconstants.h
+rollsroyce configuration\heap_4.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+rollsroyce configuration\heap_4.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+rollsroyce configuration\heap_4.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+rollsroyce configuration\heap_4.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+rollsroyce configuration\heap_4.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+rollsroyce configuration\heap_4.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+rollsroyce configuration\heap_4.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
